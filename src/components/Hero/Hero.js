@@ -39,7 +39,7 @@ const Hero = (props) => (
         I am excited for the next opportunity!
       </SectionText>
       <Button onClick={() => window.location = 'mailto:jayvencouch11@gmail.com'}>
-        Connect With Me!
+        Contact Me!
       </Button>
     </LeftSection>
   </Section>
